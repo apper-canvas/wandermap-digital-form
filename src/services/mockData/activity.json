@@ -1,0 +1,158 @@
+[
+  {
+    "id": "activity_001",
+    "name": "Arrive at Charles de Gaulle Airport",
+    "time": "10:00",
+    "location": {
+      "lat": 49.0097,
+      "lng": 2.5479,
+      "address": "Charles de Gaulle Airport, Paris, France"
+    },
+    "notes": "Flight AF123 - Check customs requirements",
+    "category": "transport",
+    "itineraryId": "itinerary_001"
+  },
+  {
+    "id": "activity_002",
+    "name": "Hotel Check-in",
+    "time": "14:00",
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "address": "Hotel des Grands Boulevards, Paris, France"
+    },
+    "notes": "Booking confirmation #ABC123",
+    "category": "accommodation",
+    "itineraryId": "itinerary_001"
+  },
+  {
+    "id": "activity_003",
+    "name": "Visit Eiffel Tower",
+    "time": "09:00",
+    "location": {
+      "lat": 48.8584,
+      "lng": 2.2945,
+      "address": "Champ de Mars, Paris, France"
+    },
+    "notes": "Pre-booked tickets for elevator to top",
+    "category": "sightseeing",
+    "itineraryId": "itinerary_002"
+  },
+  {
+    "id": "activity_004",
+    "name": "Seine River Cruise",
+    "time": "15:30",
+    "location": {
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "address": "Port de la Bourdonnais, Paris, France"
+    },
+    "notes": "1-hour cruise with audio guide",
+    "category": "activity",
+    "itineraryId": "itinerary_002"
+  },
+  {
+    "id": "activity_005",
+    "name": "Louvre Museum",
+    "time": "10:30",
+    "location": {
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "address": "Rue de Rivoli, Paris, France"
+    },
+    "notes": "Focus on Mona Lisa and Venus de Milo",
+    "category": "museum",
+    "itineraryId": "itinerary_003"
+  },
+  {
+    "id": "activity_006",
+    "name": "Lunch at Café de Flore",
+    "time": "13:00",
+    "location": {
+      "lat": 48.8542,
+      "lng": 2.3320,
+      "address": "172 Boulevard Saint-Germain, Paris, France"
+    },
+    "notes": "Historic café, try the croissants",
+    "category": "dining",
+    "itineraryId": "itinerary_003"
+  },
+  {
+    "id": "activity_007",
+    "name": "Montmartre District Walk",
+    "time": "16:00",
+    "location": {
+      "lat": 48.8867,
+      "lng": 2.3431,
+      "address": "Montmartre, Paris, France"
+    },
+    "notes": "Visit Sacré-Cœur and Place du Tertre",
+    "category": "sightseeing",
+    "itineraryId": "itinerary_003"
+  },
+  {
+    "id": "activity_008",
+    "name": "Senso-ji Temple",
+    "time": "10:00",
+    "location": {
+      "lat": 35.7148,
+      "lng": 139.7967,
+      "address": "Asakusa, Tokyo, Japan"
+    },
+    "notes": "Tokyo's oldest temple, very crowded",
+    "category": "sightseeing",
+    "itineraryId": "itinerary_004"
+  },
+  {
+    "id": "activity_009",
+    "name": "Tsukiji Outer Market",
+    "time": "07:00",
+    "location": {
+      "lat": 35.6654,
+      "lng": 139.7707,
+      "address": "Tsukiji, Tokyo, Japan"
+    },
+    "notes": "Fresh sushi breakfast and market tour",
+    "category": "dining",
+    "itineraryId": "itinerary_004"
+  },
+  {
+    "id": "activity_010",
+    "name": "Shibuya Crossing Experience",
+    "time": "19:00",
+    "location": {
+      "lat": 35.6598,
+      "lng": 139.7006,
+      "address": "Shibuya, Tokyo, Japan"
+    },
+    "notes": "World's busiest pedestrian crossing",
+    "category": "activity",
+    "itineraryId": "itinerary_004"
+  },
+  {
+    "id": "activity_011",
+    "name": "Meiji Shrine Visit",
+    "time": "09:30",
+    "location": {
+      "lat": 35.6761,
+      "lng": 139.6993,
+      "address": "Shibuya, Tokyo, Japan"
+    },
+    "notes": "Peaceful shrine in urban forest",
+    "category": "sightseeing",
+    "itineraryId": "itinerary_005"
+  },
+  {
+    "id": "activity_012",
+    "name": "Robot Restaurant Show",
+    "time": "20:00",
+    "location": {
+      "lat": 35.6938,
+      "lng": 139.7034,
+      "address": "Kabukicho, Shinjuku, Tokyo, Japan"
+    },
+    "notes": "Quirky Japanese entertainment experience",
+    "category": "entertainment",
+    "itineraryId": "itinerary_005"
+  }
+]

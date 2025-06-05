@@ -1,0 +1,83 @@
+[
+  {
+    "id": "itinerary_001",
+    "tripId": "trip_001",
+    "date": "2024-06-15",
+    "activities": [
+      {
+        "id": "activity_001",
+        "name": "Arrive at Charles de Gaulle Airport",
+        "time": "10:00",
+        "location": {
+          "lat": 49.0097,
+          "lng": 2.5479,
+          "address": "Charles de Gaulle Airport, Paris, France"
+        },
+        "notes": "Flight AF123 - Check customs requirements",
+        "category": "transport"
+      },
+      {
+        "id": "activity_002",
+        "name": "Hotel Check-in",
+        "time": "14:00",
+        "location": {
+          "lat": 48.8566,
+          "lng": 2.3522,
+          "address": "Hotel des Grands Boulevards, Paris, France"
+        },
+        "notes": "Booking confirmation #ABC123",
+        "category": "accommodation"
+      }
+    ]
+  },
+  {
+    "id": "itinerary_002",
+    "tripId": "trip_001",
+    "date": "2024-06-16",
+    "activities": [
+      {
+        "id": "activity_003",
+        "name": "Visit Eiffel Tower",
+        "time": "09:00",
+        "location": {
+          "lat": 48.8584,
+          "lng": 2.2945,
+          "address": "Champ de Mars, Paris, France"
+        },
+        "notes": "Pre-booked tickets for elevator to top",
+        "category": "sightseeing"
+      },
+      {
+        "id": "activity_004",
+        "name": "Seine River Cruise",
+        "time": "15:30",
+        "location": {
+          "lat": 48.8606,
+          "lng": 2.3376,
+          "address": "Port de la Bourdonnais, Paris, France"
+        },
+        "notes": "1-hour cruise with audio guide",
+        "category": "activity"
+      }
+    ]
+  },
+  {
+    "id": "itinerary_003",
+    "tripId": "trip_002",
+    "date": "2024-08-10",
+    "activities": [
+      {
+        "id": "activity_005",
+        "name": "Arrive at Haneda Airport",
+        "time": "16:20",
+        "location": {
+          "lat": 35.5494,
+          "lng": 139.7798,
+          "address": "Haneda Airport, Tokyo, Japan"
+        },
+        "notes": "Flight JL456 - Get JR Pass at airport",
+        "category": "transport"
+      }
+    ]
+  }
+]

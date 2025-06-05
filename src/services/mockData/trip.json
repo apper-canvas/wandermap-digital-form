@@ -1,0 +1,92 @@
+[
+  {
+    "id": "trip_001",
+    "name": "European Adventure",
+    "destination": "Paris, France",
+    "startDate": "2024-06-15",
+    "endDate": "2024-06-22",
+    "description": "A week-long exploration of the City of Light, visiting iconic landmarks, world-class museums, and experiencing authentic French cuisine. Perfect blend of culture, history, and romance.",
+    "coverImage": "https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_002",
+    "name": "Tokyo Explorer",
+    "destination": "Tokyo, Japan",
+    "startDate": "2024-08-10",
+    "endDate": "2024-08-17",
+    "description": "Immerse yourself in the fascinating contrast of traditional and modern Japan. From ancient temples to cutting-edge technology, neon-lit streets to serene gardens.",
+    "coverImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_003",
+    "name": "Santorini Escape",
+    "destination": "Santorini, Greece",
+    "startDate": "2024-09-05",
+    "endDate": "2024-09-12",
+    "description": "A romantic getaway to the stunning Greek island with its iconic blue-domed churches, dramatic cliff views, and unforgettable sunsets over the Aegean Sea.",
+    "coverImage": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_004",
+    "name": "New York City Break",
+    "destination": "New York, USA",
+    "startDate": "2024-07-20",
+    "endDate": "2024-07-25",
+    "description": "The ultimate urban adventure in the city that never sleeps. Broadway shows, world-class dining, iconic landmarks, and the vibrant energy of Manhattan.",
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_005",
+    "name": "Bali Retreat",
+    "destination": "Bali, Indonesia",
+    "startDate": "2024-10-15",
+    "endDate": "2024-10-25",
+    "description": "A peaceful retreat to the Island of the Gods, featuring pristine beaches, ancient temples, lush rice terraces, and rejuvenating spa experiences.",
+    "coverImage": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_006",
+    "name": "Swiss Alps Adventure",
+    "destination": "Interlaken, Switzerland",
+    "startDate": "2024-12-20",
+    "endDate": "2024-12-28",
+    "description": "Winter wonderland adventure in the heart of the Swiss Alps. Skiing, snowboarding, mountain railways, and cozy alpine villages covered in snow.",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_007",
+    "name": "Morocco Discovery",
+    "destination": "Marrakech, Morocco",
+    "startDate": "2024-11-08",
+    "endDate": "2024-11-16",
+    "description": "Exotic adventure through the vibrant souks, stunning palaces, and enchanting desert landscapes. Experience the rich culture and warm hospitality of Morocco.",
+    "coverImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_008",
+    "name": "Iceland Northern Lights",
+    "destination": "Reykjavik, Iceland",
+    "startDate": "2025-01-15",
+    "endDate": "2025-01-22",
+    "description": "Chase the magical Aurora Borealis while exploring dramatic waterfalls, geysers, glaciers, and the otherworldly landscapes of the land of fire and ice.",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_009",
+    "name": "Australian Coastline",
+    "destination": "Sydney, Australia",
+    "startDate": "2024-05-12",
+    "endDate": "2024-05-20",
+    "description": "Explore the stunning harbor city with its iconic Opera House and Harbour Bridge, beautiful beaches, and laid-back Australian lifestyle.",
+    "coverImage": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?w=1600&h=900&fit=crop"
+  },
+  {
+    "id": "trip_010",
+    "name": "Costa Rica Nature",
+    "destination": "San José, Costa Rica",
+    "startDate": "2024-04-03",
+    "endDate": "2024-04-12",
+    "description": "Eco-adventure through lush rainforests, exotic wildlife, pristine beaches, and volcanic landscapes. Perfect for nature lovers and adventure seekers.",
+    "coverImage": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=1600&h=900&fit=crop"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "place_001",
+    "name": "Eiffel Tower",
+    "address": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France",
+    "coordinates": {
+      "lat": 48.8584,
+      "lng": 2.2945
+    },
+    "category": "landmark",
+    "notes": "Iconic iron lattice tower, symbol of Paris",
+    "rating": 4.6
+  },
+  {
+    "id": "place_002",
+    "name": "Louvre Museum",
+    "address": "Rue de Rivoli, 75001 Paris, France",
+    "coordinates": {
+      "lat": 48.8606,
+      "lng": 2.3376
+    },
+    "category": "museum",
+    "notes": "World's largest art museum, home to Mona Lisa",
+    "rating": 4.5
+  },
+  {
+    "id": "place_003",
+    "name": "Notre-Dame Cathedral",
+    "address": "6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",
+    "coordinates": {
+      "lat": 48.8530,
+      "lng": 2.3499
+    },
+    "category": "religious",
+    "notes": "Gothic masterpiece (currently under restoration)",
+    "rating": 4.4
+  },
+  {
+    "id": "place_004",
+    "name": "Café de Flore",
+    "address": "172 Boulevard Saint-Germain, 75006 Paris, France",
+    "coordinates": {
+      "lat": 48.8542,
+      "lng": 2.3320
+    },
+    "category": "restaurant",
+    "notes": "Historic café frequented by intellectuals",
+    "rating": 4.2
+  },
+  {
+    "id": "place_005",
+    "name": "Sacré-Cœur Basilica",
+    "address": "35 Rue du Chevalier de la Barre, 75018 Paris, France",
+    "coordinates": {
+      "lat": 48.8867,
+      "lng": 2.3431
+    },
+    "category": "religious",
+    "notes": "Beautiful basilica atop Montmartre hill",
+    "rating": 4.5
+  },
+  {
+    "id": "place_006",
+    "name": "Senso-ji Temple",
+    "address": "2-3-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+    "coordinates": {
+      "lat": 35.7148,
+      "lng": 139.7967
+    },
+    "category": "religious",
+    "notes": "Tokyo's oldest temple, founded in 628 AD",
+    "rating": 4.3
+  },
+  {
+    "id": "place_007",
+    "name": "Tsukiji Outer Market",
+    "address": "4 Chome Tsukiji, Chuo City, Tokyo 104-0045, Japan",
+    "coordinates": {
+      "lat": 35.6654,
+      "lng": 139.7707
+    },
+    "category": "market",
+    "notes": "Famous fish market with fresh sushi",
+    "rating": 4.4
+  },
+  {
+    "id": "place_008",
+    "name": "Shibuya Crossing",
+    "address": "2-2-1 Shibuya, Shibuya City, Tokyo 150-0002, Japan",
+    "coordinates": {
+      "lat": 35.6598,
+      "lng": 139.7006
+    },
+    "category": "landmark",
+    "notes": "World's busiest pedestrian crossing",
+    "rating": 4.2
+  },
+  {
+    "id": "place_009",
+    "name": "Meiji Shrine",
+    "address": "1-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-8557, Japan",
+    "coordinates": {
+      "lat": 35.6761,
+      "lng": 139.6993
+    },
+    "category": "religious",
+    "notes": "Shinto shrine surrounded by forest",
+    "rating": 4.5
+  },
+  {
+    "id": "place_010",
+    "name": "Robot Restaurant",
+    "address": "1-7-1 Kabukicho, Shinjuku City, Tokyo 160-0021, Japan",
+    "coordinates": {
+      "lat": 35.6938,
+      "lng": 139.7034
+    },
+    "category": "entertainment",
+    "notes": "Unique robot show experience",
+    "rating": 3.8
+  },
+  {
+    "id": "place_011",
+    "name": "Arc de Triomphe",
+    "address": "Place Charles de Gaulle, 75008 Paris, France",
+    "coordinates": {
+      "lat": 48.8738,
+      "lng": 2.2950
+    },
+    "category": "landmark",
+    "notes": "Triumphal arch at western end of Champs-Élysées",
+    "rating": 4.5
+  },
+  {
+    "id": "place_012",
+    "name": "Tokyo Skytree",
+    "address": "1-1-2 Oshiage, Sumida City, Tokyo 131-8634, Japan",
+    "coordinates": {
+      "lat": 35.7101,
+      "lng": 139.8107
+    },
+    "category": "landmark",
+    "notes": "World's second tallest tower",
+    "rating": 4.3
+  },
+  {
+    "id": "place_013",
+    "name": "Champs-Élysées",
+    "address": "Avenue des Champs-Élysées, 75008 Paris, France",
+    "coordinates": {
+      "lat": 48.8698,
+      "lng": 2.3076
+    },
+    "category": "shopping",
+    "notes": "Famous avenue for shopping and cafés",
+    "rating": 4.1
+  },
+  {
+    "id": "place_014",
+    "name": "Harajuku",
+    "address": "Harajuku, Shibuya City, Tokyo, Japan",
+    "coordinates": {
+      "lat": 35.6702,
+      "lng": 139.7026
+    },
+    "category": "shopping",
+    "notes": "Youth culture and fashion district",
+    "rating": 4.2
+  },
+  {
+    "id": "place_015",
+    "name": "Seine River",
+    "address": "Seine River, Paris, France",
+    "coordinates": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "category": "nature",
+    "notes": "Historic river flowing through Paris",
+    "rating": 4.6
+  }
+]

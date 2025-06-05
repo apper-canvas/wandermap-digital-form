@@ -9,12 +9,10 @@ const EmptyStateSection = ({ onCreateTrip }) => (
     className="flex flex-col items-center justify-center py-16 text-center"
     initial={{ opacity: 0, scale: 0.9 }}
     animate={{ opacity: 1, scale: 1 }}
-    transition={{ duration: 0.5 }}
+transition={{ duration: 0.5 }}
   >
     <motion.div 
-      className="w-32 h-32 bg-gradient-to-br from-blue-100 to-emerald-100 rounded-full flex items-center justify-center mb-8"
-      animate={{ float: true }}
-      className="animate-float"
+      className="w-32 h-32 bg-gradient-to-br from-blue-100 to-emerald-100 rounded-full flex items-center justify-center mb-8 animate-float"
     >
       <Icon name="MapPin" className="w-16 h-16 text-gray-400" />
     </motion.div>
